@@ -1,0 +1,17 @@
+:root {
+    --white: #ffffff;
+    --light-green: #296C82;
+    --bg-green: #f1f9fb;
+    --bg-green-hover: #d9f0f7;
+    --grey: #434343;
+    --light-grey: #8C8C8C;
+    --easy-grey: #b7b7b7;
+    --good-result: #49F050;
+    --normal-result: #EFCF24;
+    --bad-result: #DC1C1C;
+    --fw600: 600;
+    --fw500: 500;
+    --fw300: 300;
+    --lh: 1.5;
+    --fs: 18px;
+}
